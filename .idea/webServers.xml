@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7f7aa8b9-5d59-4a12-b62b-c30293669868" name="callclient.ru">
+        <fileTransfer accessType="SFTP" host="185.246.67.49" port="22" sshConfigId="9b9e9f2e-a827-4ae2-9ef6-f003bf7cac7d" sshConfig="cc_files@185.246.67.49:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

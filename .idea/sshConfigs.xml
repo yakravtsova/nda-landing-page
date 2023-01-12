@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="185.246.67.49" id="9b9e9f2e-a827-4ae2-9ef6-f003bf7cac7d" keyPath="$USER_HOME$/.ssh/cc" port="22" nameFormat="DESCRIPTIVE" username="cc_files" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

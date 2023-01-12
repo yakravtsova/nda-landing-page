@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="callclient.ru" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="callclient.ru">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/callclient.ru/www" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
